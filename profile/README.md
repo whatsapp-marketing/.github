@@ -8,6 +8,7 @@ Whatsapp marketing tools. Loking for whatsapp solutions?
 
 Features:
 
+- Check number health (is it banned?)
 - Whatsapp channel auto loader
 - Whatsapp QR Code reader
 - Send whatsapp message
