@@ -4,7 +4,7 @@ Whatsapp marketing tools. Loking for whatsapp solutions?
 
 📧 Get in touch: whatsapp-solutions@proton.me! 
 
-🚀 **Does not require business account**. 
+🚀 **Does not require Whatsapp business API**. 
 
 Features:
 
